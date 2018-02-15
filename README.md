@@ -14,3 +14,4 @@ This repo was created to get used to Github before the actual project starts.
 | Name | Class | Favourite Band | Favourite Sauce | 
 |------|:-----:|:---------------:|---------------:|
 | Shady Tantawy | Archer | Ledzeblinz | Garlic Sauce |
+| Ahmed Hatem | Thief | Led Zeppelin | Sweet chili Sauce |
