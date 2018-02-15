@@ -10,3 +10,6 @@ The repo contains files required in sprint 0 group task.
 #### About
 ###### Purpose:
 This repo was created to get used to Github before the actual project starts.
+
+| Name | Class | Favourite Band | Favourite Sauce | 
+|------|:-----:|:---------------:|---------------:|
