@@ -13,3 +13,4 @@ This repo was created to get used to Github before the actual project starts.
 
 | Name | Class | Favourite Band | Favourite Sauce | 
 |------|:-----:|:---------------:|---------------:|
+|Ahmed Hatem | Thief | Led Zeppelin | Sweet chili Sauce |
