@@ -15,4 +15,5 @@ This repo was created to get used to Github before the actual project starts.
 |------|:-----:|:---------------:|---------------:|
 | Shady Tantawy | Archer | Ledzeblinz | Garlic Sauce |
 | Ahmed Hatem | Thief | Led Zeppelin | Sweet chili Sauce |
+| Amr Mostafa | Knight | Lynyrd Skynyrd | Ranch sauce |
 | Mohamed Nawar | Wizard | Pink Floyd | Garlic Sauce |
